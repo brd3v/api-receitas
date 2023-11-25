@@ -1,0 +1,22 @@
+{
+  "name": "api-receitas",
+  "version": "1.0.0",
+  "description": "api de receitas para o app receitas low carb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brd3v/api-receitas.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "brd3v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brd3v/api-receitas/issues"
+  },
+  "homepage": "https://github.com/brd3v/api-receitas#readme"
+}
